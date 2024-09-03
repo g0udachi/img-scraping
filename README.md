@@ -4,7 +4,7 @@ This project is an image scraper script designed to retrieve full-resolution ima
 
 ## Custom Excel Dataset
 
-The custom Excel dataset used in this project contains 3 reference codes. Here is an example:
+The custom Excel dataset used in this project contains 3 reference code:
 ![Example Dataset](https://github.com/user-attachments/assets/c59aaeae-a2d9-42a6-a2b2-380485b1cb9b)
 
 ## Installation
